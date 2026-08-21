@@ -11,14 +11,14 @@ def SahurStrafe():
     """
     print(schaedel)
 
-A = "3"
+A = "0"
 if __name__ == "__main__":
     print("Sahur?")
 
     A = input("Wie viele Tungs?\n")
 
-if A != "3":
-    print("FALSCH!!")
-    SahurStrafe()
-else:
-    print("Sahur.")
+    if A != "3":
+        print("FALSCH!!")
+        SahurStrafe()
+    else:
+        print("Sahur.")
