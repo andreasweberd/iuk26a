@@ -1,5 +1,10 @@
-def kaufen(Anzahl, Artikel, Preis):
-    print(f"Ich kaufe {Anzahl}x {Artikel} für insgesamt {Preis} Euro.")
+def kaufen(Artikel, Preis, Anzahl):
+    Gesamtpreis = Anzahl * Preis
+    print(f"Ich kaufe {Anzahl}x {Artikel} für insgesamt {Gesamtpreis} Euro.")
+
 
 if __name__ == "__main__":
-    kaufen(3, "Schokolade", 4.50)
+    Artikel = "Schokolade"
+    Preis = 4.5
+    Anzahl = 5
+    kaufen(Artikel, Preis, Anzahl)
