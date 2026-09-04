@@ -6,5 +6,5 @@ def kaufen(artikel, preis, anzahl):
 if __name__ == "__main__":
     artikelname = ("Schokolade")                    #Schokolade = string
     preis = 4.5                                     #preis = float
-    anzahl = 3                                      #anzahl = int
+    anzahl = 2                                      #anzahl = int
     kaufen(artikelname, preis, anzahl)
