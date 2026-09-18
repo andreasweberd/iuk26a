@@ -30,5 +30,5 @@ if __name__ == "__main__":
     print(f"Die Dateigroesse des Bildes betraegt: {dateigroesse_bild} MiB")
     print(f"Die Dateigroesse der Audio betraegt: {dateigroesse_audio} MiB")
 
-    dateigroesse_video = berechne_video (1920,1080,24,30,48000,16,2,60)
-    print(f"Die Dateigroesse des Videos betraegt: {dateigroesse_video} MiB")
+    dateigroesse_video = berechne_video (1920,1080,24,30,48000,16,2,60) / 1024
+    print(f"Die Dateigroesse des Videos betraegt: {dateigroesse_video} GiB")
