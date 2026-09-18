@@ -1,0 +1,1 @@
+berechne_bild(breite, höhe, farbtiefe):
