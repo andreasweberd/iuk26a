@@ -17,7 +17,7 @@ def berechne_video (breite, hoehe, farbtife, fps, abtastrate, bittiefe, kanaele,
 
 
 if __name__ == "__main__":
-    #bild = berechne_bild(1025, 680, 16)
-    #audio = berechne_audio(44100,16,2,10)
     ergebnis = berechne_video(1920, 1080,24,30, 48000, 16,2,60)
     print(f"die Dateigröße video mit ton beträgt {ergebnis} Mebibyte")
+    gibibyte = ergebnis / 1024
+    print (f"die Dateigröße video mit ton beträgt {gibibyte} Gibibyte")
