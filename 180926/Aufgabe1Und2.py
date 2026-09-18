@@ -16,8 +16,7 @@ def berechne_video(breite,hoehe,farbtiefe,fps,abtastrate,bittiefe,kanaele,zeit_i
     AudioData = berechne_audio(abtastrate,bittiefe,kanaele,zeit_in_sekunden)
     FrameData = berechne_bild(breite,hoehe,farbtiefe)
     VideoData = FrameData*fps*zeit_in_sekunden
-    Gibibytes = (VideoData+AudioData)/1000
-    return Gibibytes
+    return VideoData+AudioData
 
 if __name__ == "__main__":
     Ergebnis = berechne_bild(1025,680,16)
@@ -25,4 +24,4 @@ if __name__ == "__main__":
     AudioErgebnis = berechne_audio(44100,16,2,10)
     print("Das Audioergebnis ist: " + str(AudioErgebnis) + " MiB")
     VideoErgebnis = berechne_video(1920,1080,24,30,48000,16,2,60)
-    print("Das Videoergebnis ist: " + str(VideoErgebnis) + " GiB")
+    print("Das Videoergebnis ist: " + str(VideoErgebnis) + " MiB")
