@@ -16,7 +16,7 @@ def berechne_video(breite,hoehe,farbtiefe,fps,abtastrate,bittiefe,kanaele,zeit_i
     AudioData = berechne_audio(abtastrate,bittiefe,kanaele,zeit_in_sekunden)
     FrameData = berechne_bild(breite,hoehe,farbtiefe)
     VideoData = FrameData*fps*zeit_in_sekunden
-    Gibibytes = (VideoData+AudioData)/1024
+    Gibibytes = (VideoData+AudioData)/1000
     return Gibibytes
 
 if __name__ == "__main__":
