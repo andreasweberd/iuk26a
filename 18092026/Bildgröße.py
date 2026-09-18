@@ -3,9 +3,5 @@ def berechne_bild(breite, hoehe, farbtiefe):
     MiB = bits / 8 / 1024 / 1024
     print(f"Die Bildgröße beträgt {MiB} MiB.")
 
-
 if __name__ == "__main__":
-    breite = 1025
-    hoehe = 680
-    farbtiefe = 16
-    berechne_bild(breite, hoehe, farbtiefe)
+    berechne_bild(1025, 680, 16)
