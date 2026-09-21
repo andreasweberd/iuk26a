@@ -32,6 +32,7 @@ if __name__ == '__main__':
     Ergebniss_video = berechne_video(1920, 1080, 24, 30, 48000, 16, 2, 60)
 
     Ergebniss_bild = berechne_bild(breite, höhe, farbtiefe)
+    
     print('Das Ergebnis vom Bild ist: ' + str(Ergebniss_bild))
 
     abtastrate = 44100
