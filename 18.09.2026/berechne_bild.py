@@ -46,5 +46,3 @@ if __name__ == '__main__':
     Ergebniss_audio = berechne_audio(abtastrate, bittiefe, kanäle, zeit_in_sekunden)
 
     print('Das Ergebnis der Audio ist: ' + str(Ergebniss_audio))
-
-
