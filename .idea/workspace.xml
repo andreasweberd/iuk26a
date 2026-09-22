@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5edaab0b-4da5-4d9e-8782-86f82c3d2a25" name="Changes" comment="Abgeben von Den ersten 3 Scrips in einem" />
+    <list default="true" id="5edaab0b-4da5-4d9e-8782-86f82c3d2a25" name="Changes" comment="Abgeben von Den ersten 3 Scrips in einem">
+      <change beforePath="$PROJECT_DIR$/18092026/Aufgabe1.py" beforeDir="false" afterPath="$PROJECT_DIR$/LernstoffPython/Aufgabe_18092026.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LernstoffPython/Aufgabe1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LernstoffPython/Kaufen.py" beforeDir="false" afterPath="$PROJECT_DIR$/LernstoffPython/Kaufen_11092026.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,8 +46,10 @@
     "git-widget-placeholder": "marino__salvatore",
     "last_opened_file_path": "C:/Users/MarinoS/Projekte/iuk26a",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
   }
@@ -72,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790061765752</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Abgeben von Den ersten 3 Scrips in einem">
+      <option name="closed" value="true" />
+      <created>1790061946228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790061946228</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
