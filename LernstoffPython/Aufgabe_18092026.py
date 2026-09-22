@@ -31,7 +31,3 @@ if __name__ == "__main__":
     print("Das Ergebnis ist: " + str(Ergebnis))
     print("Das Ergebnis der Audio ist: " + str(Audio_bits))
     print("Das 1 minütige Full-HD Video hat: " + str(Gesamt_Video))
-
-
-
-
