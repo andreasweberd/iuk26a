@@ -5,11 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/python_projekt_1/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="~\iuk26a\.venv" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="~\IuK26a\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
-  <component name="PackageRequirementsSettings" />
-  <component name="PyDocumentationSettings" />
-  <component name="ReSTService" />
-  <component name="TestRunnerService" />
 </module>
