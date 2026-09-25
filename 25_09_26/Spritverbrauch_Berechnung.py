@@ -10,6 +10,6 @@ if __name__ == "__main__":
     verbrauch = berechne_Verbrauch(kilometer, liter)
     print(f"dein verbrauch beträgt {verbrauch}")
     if (verbrauch > 8):
-        print("sparsam")
-    else:
         print("nicht sparsam")
+    else:
+        print("sparsam")
