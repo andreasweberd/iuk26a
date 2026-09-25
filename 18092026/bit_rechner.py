@@ -28,7 +28,7 @@ if __name__ == "__main__":
     dateigroesse_bild = berechne_bild(1600,680,16)
 
     print(f"Die Dateigroesse des Bildes betraegt: {dateigroesse_bild} MiB")
-    print(f"Die Dateigroesse der Audio betraegt: {dateigroesse_audio} MiB")
+    print(f"Die Dateigroesse der Audio betraegt: {dateigroesse_audio:.2f} MiB")
 
     dateigroesse_video = berechne_video (1920,1080,24,30,48000,16,2,60) / 1024
-    print(f"Die Dateigroesse des Videos betraegt: {dateigroesse_video} GiB")
+    print(f"Die Dateigroesse des Videos betraegt: {dateigroesse_video:.2f} GiB") #:.2f rundet
