@@ -5,7 +5,7 @@ def Verbrauch(Liter, Kilometer):
 
 if __name__ == "__main__":
     Liter = float(input("Wie viele Liter hast du verbraucht? "))
-    Kilometer = float(input("Wie viele Kilometer hast du verbraucht? "))
+    Kilometer = float(input("Wie viele Kilometer bist du gefahren? "))
     Rechnung = Verbrauch(Liter, Kilometer)
     print(f"Das Auto hat einen Verbrauch von {Rechnung:.2f} Litern.")
 
