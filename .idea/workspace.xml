@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5edaab0b-4da5-4d9e-8782-86f82c3d2a25" name="Changes" comment="Abgeben von Den ersten 3 Scrips in einem">
-      <change afterPath="$PROJECT_DIR$/LernstoffPython/Aufgabe_25092026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LernstoffPython/Aufgabe_13112026_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LernstoffPython/Aufgabe_13112026_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LernstoffPython/Aufgabe_13112026_4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,32 +34,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Aufgabe_11092026.executor": "Run",
-    "Python.Aufgabe_18092026.executor": "Run",
-    "Python.Aufgabe_25092026.executor": "Run",
-    "Python.kaufen-py.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "marino__salvatore",
-    "last_opened_file_path": "C:/Users/MarinoS/Projekte/iuk26a",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Aufgabe_11092026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aufgabe_18092026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aufgabe_25092026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kaufen-py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;marino__salvatore&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MarinoS/Projekte/iuk26a/LernstoffPython&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MarinoS\Projekte\iuk26a\LernstoffPython" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MarinoS\Projekte\iuk26a\LernstoffPython" />
     </key>
@@ -141,7 +146,23 @@
       <option name="project" value="LOCAL" />
       <updated>1790062853878</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Abgeben von Den ersten 3 Scrips in einem">
+      <option name="closed" value="true" />
+      <created>1790332288125</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1790332288126</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Abgeben von Den ersten 3 Scrips in einem">
+      <option name="closed" value="true" />
+      <created>1794821618265</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1794821618265</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
