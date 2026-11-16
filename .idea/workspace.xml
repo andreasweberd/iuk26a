@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5edaab0b-4da5-4d9e-8782-86f82c3d2a25" name="Changes" comment="hall">
+      <change afterPath="$PROJECT_DIR$/Trinkmaster5000.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PAP 13.11.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "becker__laura__marie",
-    "last_opened_file_path": "C:/Users/laura-marie.becker/iuk26a/250926",
+    "last_opened_file_path": "C:/Users/laura-marie.becker/iuk26a",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -55,6 +57,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\laura-marie.becker\iuk26a" />
       <recent name="C:\Users\laura-marie.becker\iuk26a\250926" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -77,6 +80,10 @@
       <updated>1788502332067</updated>
       <workItem from="1788502333126" duration="3853000" />
       <workItem from="1790332475518" duration="366000" />
+      <workItem from="1790332860114" duration="525000" />
+      <workItem from="1790345546586" duration="105000" />
+      <workItem from="1793957239993" duration="24000" />
+      <workItem from="1793957290101" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="hall">
       <option name="closed" value="true" />
@@ -86,7 +93,39 @@
       <option name="project" value="LOCAL" />
       <updated>1790332591026</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hall">
+      <option name="closed" value="true" />
+      <created>1790332919578</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790332919579</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hall">
+      <option name="closed" value="true" />
+      <created>1790332997286</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790332997286</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hall">
+      <option name="closed" value="true" />
+      <created>1790333365230</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1790333365230</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hall">
+      <option name="closed" value="true" />
+      <created>1794572398472</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1794572398472</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
