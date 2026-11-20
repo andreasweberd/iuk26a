@@ -1,4 +1,8 @@
-def process_client_ordner(product_id):
+inventory = [20,50,45,30,22]
+price = [2,2.50,3.50]
+
+
+def process_client_order(product_id):
 
     lagerbestand = inventory[product_id]
 
@@ -9,7 +13,7 @@ def process_client_ordner(product_id):
     einwurf = 0
     print("PREIS" + str(preis))
     while einwurf < preis :
-        muenze = input("GIB GELD")
+        muenze = float(input("GIB GELD"))
         if muenze >= 0.10 and muenze <= 2 :
             einwurf = einwurf + muenze
     abbruch = input("ABBRUCH")
@@ -21,10 +25,7 @@ def process_client_ordner(product_id):
     print("Ihr Restgeld: " + str(einwurf - price))
     return
 
-
-
-
 if __name__ == "__main__":
-    inventory = []
-    price = []
+    process_client_order(1)
+
 
