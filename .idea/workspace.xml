@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5edaab0b-4da5-4d9e-8782-86f82c3d2a25" name="Changes" comment="hall">
-      <change afterPath="$PROJECT_DIR$/Trinkmaster5000.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PAP 13.11.png" beforeDir="false" />
-    </list>
+    <list default="true" id="5edaab0b-4da5-4d9e-8782-86f82c3d2a25" name="Changes" comment="hall" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +40,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "becker__laura__marie",
-    "last_opened_file_path": "C:/Users/laura-marie.becker/iuk26a",
+    "last_opened_file_path": "C:/Users/laura-marie.becker/iuk26a/131126",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -52,15 +48,18 @@
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\laura-marie.becker\iuk26a\131126" />
       <recent name="C:\Users\laura-marie.becker\iuk26a" />
       <recent name="C:\Users\laura-marie.becker\iuk26a\250926" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\laura-marie.becker\iuk26a\131126" />
       <recent name="C:\Users\laura-marie.becker\iuk26a" />
     </key>
   </component>
